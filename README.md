@@ -1,6 +1,7 @@
 # Pizza-Ordering-ChatBot
 Pizza Ordering ChatBot using Dialogflow and Firebase with help of Google assistant.
 
+![PRD](https://github.com/vinaysomawat/Pizza-Ordering-ChatBot/blob/master/img/prd.png)
 ### Google Assistance console
 Action console helps to test the bot in real time.
 
